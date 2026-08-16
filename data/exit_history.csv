@@ -1,0 +1,101 @@
+﻿Startup_ID,Startup_Name,Historical_Exit_Type,Exit_Year,Exit_Valuation_USD_Million,Acquirer_Name,Exit_Status,Exit_Reason,Years_to_Exit
+ST001,Razorpay,Private,0,0,0,Active,Private,0
+ST002,CRED,Private,0,0,0,Active,Still Private,0
+ST003,Groww,Private,0,0,0,Active,Still Private,0
+ST004,Pine Labs,IPO,2025,5500,0,Public,IPO,15
+ST005,Open,Private,0,0,0,Active,Still Private,0
+ST006,Jupiter,Private,0,0,0,Active,Still Private,0
+ST007,Fi Money,Private,0,0,0,Active,Still Private,0
+ST008,MobiKwik,IPO,2024,183,0,Public,IPO,15
+ST009,Blinkit,Acquisition,2022,570,Zomato,Acquired,Strategic Acquisition,9
+ST010,Zepto,Private,0,0,0,Active,Still Private,0
+ST011,Swiggy Instamart,Subsidiary,0,0,0,Active,Still Private / Subsidiary Unit,0
+ST012,BigBasket,Acquisition,2021,2000,Tata Digital,Acquired,Strategic Acquisition,10
+ST013,BB Now,Subsidiary,0,0,0,Active,Still Private / Subsidiary Unit,0
+ST014,Flipkart Minutes,Subsidiary,0,0,0,Active,Still Private / Subsidiary Unit,0
+ST015,Meesho,Private,0,0,0,Active,Still Private,0
+ST016,Myntra,Acquisition,2014,330,Flipkart,Acquired,Strategic Acquisition,7
+ST017,Nykaa,IPO,2021,7100,0,Public,IPO Listing,9
+ST018,Brainbees (FirstCry),IPO,2024,2900,0,Public,IPO Listing,14
+ST019,Lenskart,IPO,2025,7700,0,Public,Initial Public Offering (IPO),15
+ST020,Pepperfry,Private,0,0,0,Active,Still Private,0
+ST021,Physics Wallah,Private,0,0,0,Active,Still Private,0
+ST022,Unacademy,Private,0,0,0,Active,Still Private,0
+ST023,upGrad,Private,0,0,0,Active,Still Private,0
+ST024,Vedantu,Private,0,0,0,Active,Still Private,0
+ST025,Classplus,Private,0,0,0,Active,Still Private,0
+ST026,CollegeDekho,Private,0,0,0,Active,Still Private,0
+ST027,Delhivery,IPO,2022,4400,0,Public,IPO Listing,11
+ST028,Shiprocket,Private,0,0,0,Active,Still Private,0
+ST029,Xpressbees,Private,0,0,0,Active,Still Private,0
+ST030,Shadowfax,Private,0,0,0,Active,Still Private,0
+ST031,Zomato,IPO,2021,12200,0,Public,IPO Listing,13
+ST032,Swiggy,IPO,2024,11300,0,Public,IPO Listing,10
+ST033,Swish,Private,0,0,0,Active,Still Private,0
+ST034,Magicpin,Private,0,0,0,Active,Still Private,0
+ST035,Rebel Foods,Private,0,0,0,Active,Still Private,0
+ST036,FreshMenu,Private,0,0,0,Active,Still Private,0
+ST037,EatSure,Subsidiary,0,0,0,Active,Brand of Rebel Foods,0
+ST038,boAt,Private,0,0,0,Active,Still Private (IPO Draft Filed/Paused),0
+ST039,Noise,Private,0,0,0,Active,Still Private,0
+ST040,Boult,Private,0,0,0,Active,Still Private,0
+ST041,Fire-Boltt,Private,0,0,0,Active,Still Private,0
+ST042,Zerodha,Private,0,0,0,Active,Still Private (Bootstrapped),0
+ST043,PhonePe,Private,0,0,0,Active,Still Private (Separate Corporate Unit),0
+ST044,Angel One,IPO,2020,270,0,Public,IPO Listing,24
+ST045,Honasa (Mamaearth),IPO,2023,1200,0,Public,IPO Listing,7
+ST046,Urban Company,Private,0,0,0,Active,Still Private,0
+ST047,LEAD School,Private,0,0,0,Active,Still Private,0
+ST048,Teachmint,Private,0,0,0,Active,Still Private,0
+ST049,Eruditus,Private,0,0,0,Active,Still Private,0
+ST050,BYJU'S,Private,0,0,0,Active,Still Private,0
+ST051,Practo,Private,0,0,0,Active,Still Private,0
+ST052,PharmEasy,Private,0,0,0,Active,Still Private (IPO Draft Postponed),0
+ST053,Tata 1mg,Acquisition,2021,450,Tata Digital,Acquired,Strategic Acquisition,6
+ST054,MediBuddy,Private,0,0,0,Active,Still Private,0
+ST055,Healthify,Private,0,0,0,Active,Still Private,0
+ST056,Curefoods,Private,0,0,0,Active,Still Private,0
+ST057,Porter,Private,0,0,0,Active,Still Private,0
+ST058,BlackBuck,Private,0,0,0,Active,Still Private (IPO Draft Filed),0
+ST059,Rivigo,Acquisition,2022,10,Mahindra Logistics,Acquired,Business Asset Sale,8
+ST060,BluSmart,Private,0,0,0,Active,Still Private,0
+ST061,Ola Electric,IPO,2024,4600,0,Public,IPO Listing,7
+ST062,Ather Energy,IPO,2025,3400,0,Public,IPO Listing,12
+ST063,Rapido,Private,0,0,0,Active,Still Private,0
+ST064,Namma Yatri,Subsidiary,0,0,0,Active,Part of Moving Tech,0
+ST065,CarDekho,Private,0,0,0,Active,Still Private,0
+ST066,Cars24,Private,0,0,0,Active,Still Private,0
+ST067,Spinny,Private,0,0,0,Active,Still Private,0
+ST068,ACKO,Private,0,0,0,Active,Still Private,0
+ST069,Policybazaar,IPO,2021,6000,0,Public,IPO Listing,13
+ST070,Digit Insurance,IPO,2024,30000,Public,IPO Listing,8,
+ST071,Navi,Private,0,0,0,Active,Still Private,0
+ST072,BharatPe,Private,0,0,0,Active,Still Private,0
+ST073,Paytm,IPO,2021,16000,0,Public,IPO Listing,11
+ST074,Cashfree Payments,Private,0,0,0,Active,Still Private,0
+ST075,OfBusiness,Private,0,0,0,Active,Still Private (IPO Planned),0
+ST076,Infra.Market,Private,0,0,0,Active,Still Private,0
+ST077,Zetwerk,Private,0,0,0,Active,Still Private,0
+ST078,ElasticRun,Private,0,0,0,Active,Still Private,0
+ST079,Udaan,Private,0,0,0,Active,Still Private,0
+ST080,Ninjacart,Private,0,0,0,Active,Still Private,0
+ST081,DeHaat,Private,0,0,0,Active,Still Private,0
+ST082,AgroStar,Private,0,0,0,Active,Still Private,0
+ST083,Moglix,Private,0,0,0,Active,Still Private,0
+ST084,Khatabook,Private,0,0,0,Active,Still Private,0
+ST085,Dukaan,Private,0,0,0,Active,Still Private,0
+ST086,BrowserStack,Private,0,0,0,Active,Still Private,0
+ST087,Snapdeal,Private,0,0,0,Active,Still Private,0
+ST088,Chargebee,Private,0,0,0,Active,Still Private,0
+ST089,Hasura,Private,0,0,0,Active,Still Private,0
+ST090,InMobi,Private,0,0,0,Active,Still Private,0
+ST091,Dream11,Private,0,0,0,Active,Still Private,0
+ST092,MakeMyTrip,IPO,2010,450,0,Public,NASDAQ IPO Listing,10
+ST093,Goibibo,Acquisition,2016,720,MakeMyTrip,Acquired,Strategic M&A consolidation,9
+ST094,Yatra,IPO,2016,218,0,Public,NASDAQ / Indian IPO (2023),10
+ST095,TBO.com,IPO,2024,850,0,Public,IPO Listing,18
+ST096,ixigo,IPO,2024,520,0,Public,IPO Listing,18
+ST097,EaseMyTrip,IPO,2021,280,0,Public,IPO Listing,13
+ST098,OYO,Private,0,0,0,Active,Still Private,0
+ST099,Ola Cabs,Private,0,0,0,Active,Still Private (IPO Draft Filed)*,0
+ST100,Apna,Private,0,0,0,Active,Still Private,0

@@ -1,0 +1,101 @@
+﻿Startup_ID,Startup_Name,Employee_Count,Monthly_Visits,Google_Trends_Score,App_Downloads,App_Rating,App_Reviews_Count,TAM,TAM_Growth_Rate,Market_Size_Category
+ST101,CarTrade,"~1,200",~18M monthly,62,~10M+,4.3,~180K,$32 Bn,16%,Very Large
+ST102,Droom,~850,~8.5M monthly,48,~10M+,4.1,~210K,$32 Bn,16%,Very Large
+ST103,Park+,~950,~4.2M monthly,54,~10M+,4.5,~280K,$12 Bn,20%,Large
+ST104,OTO Capital,~320,~850K monthly,38,~1M+,4.4,~35K,$15 Bn,22%,Large
+ST105,GoMechanic,~600,~2.1M monthly,42,~5M+,4.2,~120K,$18 Bn,14%,Large
+ST106,Kuwy,~220,~450K monthly,28,~1M+,4.2,~15K,$15 Bn,22%,Large
+ST107,Fixcraft,~180,~320K monthly,25,~500K+,4.3,~12K,$18 Bn,14%,Large
+ST108,Cardekho Gaadi,"~1,100",~12M monthly,58,~10M+,4.3,~190K,$32 Bn,16%,Very Large
+ST109,Kuku FM,~480,~6.5M monthly,72,~50M+,4.4,~1.1M,$8 Bn,24%,Medium
+ST110,Pocket FM,~820,~15M monthly,81,~100M+,4.5,~2.2M,$12 Bn,28%,Large
+ST111,Yulu,~650,~1.8M monthly,52,~10M+,4.3,~150K,$10 Bn,25%,Medium
+ST112,ShareChat,"~1,400",~28M monthly,78,~100M+,4.2,~3.5M,$20 Bn,18%,Large
+ST113,CleverTap,~750,~1.2M monthly,45,B2B / SaaS,4.6,~5K,$25 Bn,20%,Very Large
+ST114,Cult.fit,"~1,800",~5.8M monthly,68,~10M+,4.6,~450K,$15 Bn,18%,Large
+ST115,Acko Drive,~280,~1.5M monthly,42,~1M+,4.2,~25K,$32 Bn,16%,Very Large
+ST116,Dunzo,~450,~2.2M monthly,48,~50M+,4.1,~850K,$22 Bn,24%,Large
+ST117,Milkbasket,~800,~3.1M monthly,52,~10M+,4.3,~320K,$22 Bn,24%,Large
+ST118,Otipy,~420,~1.4M monthly,44,~5M+,4.3,~110K,$18 Bn,22%,Large
+ST119,Pluckk,~210,~680K monthly,36,~1M+,4.4,~28K,$18 Bn,22%,Large
+ST120,Country Delight,"~2,200",~6.2M monthly,74,~10M+,4.4,~420K,$25 Bn,20%,Very Large
+ST121,Fraazo,~120,~250K monthly,22,~5M+,3.9,~75K,$18 Bn,22%,Large
+ST122,KisanKonnect,~280,~520K monthly,34,~1M+,4.4,~32K,$18 Bn,22%,Large
+ST123,DeepRooted,~190,~380K monthly,28,~500K+,4.3,~18K,$18 Bn,22%,Large
+ST124,Tendercuts,~350,~850K monthly,32,~1M+,4.2,~45K,$12 Bn,18%,Large
+ST125,Fipola,~110,~180K monthly,18,~1M+,3.8,~30K,$12 Bn,18%,Large
+ST126,Supr Daily,~300,~1.1M monthly,35,~5M+,4.2,~140K,$22 Bn,24%,Large
+ST127,Livspace,"~3,100",~4.8M monthly,65,~1M+,4.3,~65K,$28 Bn,18%,Very Large
+ST128,Snoonu India,~150,~220K monthly,20,~500K+,4.1,~10K,$22 Bn,24%,Large
+ST129,Ola Dash,~100,Discontinued,15,Via Ola App,4,N/A,$22 Bn,24%,Large
+ST130,HomeLane,"~1,850",~3.2M monthly,58,~500K+,4.2,~42K,$28 Bn,18%,Very Large
+ST131,Slice,"~1,250",~5.2M monthly,64,~10M+,4.4,~580K,$35 Bn,22%,Very Large
+ST132,Upstox,"~1,650",~18M monthly,78,~50M+,4.4,~1.4M,$25 Bn,25%,Very Large
+ST133,OneCard,~680,~3.8M monthly,62,~10M+,4.5,~380K,$20 Bn,22%,Large
+ST134,Money View,"~1,100",~8.5M monthly,71,~50M+,4.5,~1.8M,$30 Bn,24%,Very Large
+ST135,KreditBee,"~1,400",~11M monthly,75,~50M+,4.5,~2.1M,$30 Bn,24%,Very Large
+ST136,Perfios,"~1,200",~1.5M monthly,48,B2B / SaaS,4.6,~8K,$35 Bn,20%,Very Large
+ST137,InCred,"~1,850",~2.8M monthly,55,~1M+,4.3,~65K,$40 Bn,18%,Very Large
+ST138,Yubi (CredAvenue),~850,~950K monthly,42,B2B Enterprise,4.5,~4K,$35 Bn,20%,Very Large
+ST139,Oxyzo,~650,~1.1M monthly,45,B2B Enterprise,4.4,~6K,$45 Bn,18%,Very Large
+ST140,Vivriti Capital,~950,~1.4M monthly,44,B2B Enterprise,4.4,~5K,$45 Bn,18%,Very Large
+ST141,CoinSwitch,~550,~4.2M monthly,58,~10M+,4.2,~480K,$15 Bn,28%,Large
+ST142,CoinDCX,~620,~4.8M monthly,60,~10M+,4.3,~520K,$15 Bn,28%,Large
+ST143,Juspay,~980,~3.5M monthly,52,SDK / Merchant,4.6,~12K,$35 Bn,20%,Very Large
+ST144,Indifi,~650,~1.8M monthly,46,~1M+,4.3,~35K,$30 Bn,22%,Very Large
+ST145,Lendingkart,"~1,150",~3.2M monthly,58,~10M+,4.3,~210K,$30 Bn,22%,Very Large
+ST146,Rupeek,"~1,300",~2.1M monthly,52,~5M+,4.4,~140K,$25 Bn,16%,Very Large
+ST147,Jar,~320,~4.5M monthly,66,~10M+,4.6,~340K,$18 Bn,26%,Large
+ST148,Mswipe,"~1,450",~2.4M monthly,48,~5M+,4.2,~110K,$25 Bn,18%,Very Large
+ST149,axio (Capital Float),~720,~2.8M monthly,50,~5M+,4.3,~160K,$20 Bn,22%,Large
+ST150,PayU India,"~2,100",~14M monthly,68,Merchant Platform,4.4,~45K,$35 Bn,20%,Very Large
+ST151,Fibe (EarlySalary),"~1,150",~7.8M monthly,72,~10M+,4.5,~850K,$30 Bn,24%,Very Large
+ST152,Stashfin,~850,~4.2M monthly,60,~10M+,4.3,~410K,$30 Bn,24%,Very Large
+ST153,CASHe,~620,~3.5M monthly,56,~10M+,4.2,~380K,$25 Bn,22%,Very Large
+ST154,Niyo,~780,~3.1M monthly,54,~5M+,4.3,~220K,$20 Bn,22%,Large
+ST155,Progcap,~480,~1.2M monthly,42,B2B Platform,4.4,~15K,$30 Bn,20%,Very Large
+ST156,KredX,~380,~850K monthly,38,B2B Platform,4.3,~8K,$25 Bn,18%,Very Large
+ST157,Velocity,~210,~620K monthly,36,B2B Platform,4.5,~4K,$15 Bn,24%,Large
+ST158,GetVantage,~180,~540K monthly,34,B2B Platform,4.4,~3K,$15 Bn,24%,Large
+ST159,Klub,~190,~580K monthly,35,B2B Platform,4.5,~3.5K,$15 Bn,24%,Large
+ST160,Smallcase,~420,~6.8M monthly,72,~5M+,4.6,~280K,$25 Bn,25%,Very Large
+ST161,INDmoney,~480,~8.2M monthly,74,~10M+,4.5,~620K,$25 Bn,25%,Very Large
+ST162,Scripbox,~310,~1.8M monthly,46,~1M+,4.4,~85K,$25 Bn,20%,Very Large
+ST163,Kuvera,~140,~1.2M monthly,38,~1M+,4.5,~65K,$25 Bn,20%,Very Large
+ST164,Wint Wealth,~180,~2.1M monthly,52,~1M+,4.6,~45K,$20 Bn,24%,Large
+ST165,LiquiLoans,~290,~1.4M monthly,42,P2P Platform,4.4,~18K,$20 Bn,22%,Large
+ST166,Turno,~240,~480K monthly,36,~500K+,4.5,~12K,$12 Bn,28%,Large
+ST167,Revfin,~310,~650K monthly,40,~500K+,4.4,~16K,$12 Bn,28%,Large
+ST168,Raise Financial (Dhan),~380,~5.4M monthly,68,~5M+,4.5,~210K,$25 Bn,25%,Very Large
+ST169,ZestMoney,~120,~350K monthly,24,~10M+,3.9,~280K,$20 Bn,22%,Large
+ST170,Faircent,~220,~820K monthly,38,~1M+,4.1,~42K,$20 Bn,20%,Large
+ST171,Purplle,"~2,400",~16M monthly,78,~50M+,4.4,~1.2M,$28 Bn,22%,Very Large
+ST172,Licious,"~3,200",~9.5M monthly,72,~10M+,4.4,~680K,$15 Bn,18%,Large
+ST173,The Good Glamm Group,"~1,800",~12M monthly,70,~10M+,4.3,~450K,$28 Bn,22%,Very Large
+ST174,Wakefit,"~2,100",~6.8M monthly,68,~1M+,4.4,~120K,$18 Bn,16%,Large
+ST175,Sugar Cosmetics,"~1,600",~8.2M monthly,74,~10M+,4.4,~380K,$28 Bn,22%,Very Large
+ST176,WOW Skin Science,~950,~4.2M monthly,58,~5M+,4.2,~180K,$28 Bn,22%,Very Large
+ST177,Minimalist,~480,~5.8M monthly,72,~1M+,4.6,~95K,$28 Bn,22%,Very Large
+ST178,Plum Goodness,~850,~4.8M monthly,62,~5M+,4.4,~210K,$28 Bn,22%,Very Large
+ST179,MCaffeine,~620,~3.9M monthly,58,~5M+,4.3,~160K,$28 Bn,22%,Very Large
+ST180,The Man Company,~540,~2.8M monthly,52,~1M+,4.3,~85K,$12 Bn,20%,Large
+ST181,Beardo,~420,~2.4M monthly,50,~1M+,4.2,~75K,$12 Bn,20%,Large
+ST182,Man Matters (Mosaic),~480,~3.5M monthly,56,~5M+,4.4,~140K,$18 Bn,22%,Large
+ST183,Kapiva,~580,~3.8M monthly,58,~1M+,4.4,~95K,$18 Bn,22%,Large
+ST184,Snitch,~380,~4.2M monthly,68,~5M+,4.5,~180K,$22 Bn,20%,Large
+ST185,Bewakoof,~850,~7.2M monthly,66,~10M+,4.3,~520K,$22 Bn,20%,Large
+ST186,The Souled Store,~920,~8.5M monthly,74,~5M+,4.6,~340K,$22 Bn,20%,Large
+ST187,Clovia,~780,~4.5M monthly,58,~5M+,4.3,~240K,$14 Bn,18%,Large
+ST188,Zivame,~950,~5.8M monthly,62,~10M+,4.3,~380K,$14 Bn,18%,Large
+ST189,BlueStone,"~1,800",~6.4M monthly,66,~5M+,4.4,~210K,$25 Bn,18%,Very Large
+ST190,CaratLane,"~2,800",~12M monthly,78,~10M+,4.5,~480K,$25 Bn,18%,Very Large
+ST191,Giva,"~1,200",~7.8M monthly,76,~5M+,4.5,~290K,$25 Bn,20%,Very Large
+ST192,Melorra,~650,~3.2M monthly,52,~1M+,4.2,~85K,$25 Bn,18%,Very Large
+ST193,Nestasia,~340,~2.8M monthly,55,~1M+,4.5,~65K,$20 Bn,18%,Large
+ST194,Beco,~220,~1.8M monthly,48,~500K+,4.5,~32K,$15 Bn,22%,Large
+ST195,SuperBottoms,~210,~1.5M monthly,45,~500K+,4.6,~42K,$12 Bn,20%,Large
+ST196,The Whole Truth,~280,~2.6M monthly,62,~500K+,4.6,~58K,$18 Bn,22%,Large
+ST197,Slurrp Farm,~260,~2.1M monthly,54,~500K+,4.5,~36K,$18 Bn,22%,Large
+ST198,Blue Tokai Coffee,"~1,400",~3.8M monthly,64,~1M+,4.6,~82K,$10 Bn,20%,Medium
+ST199,Third Wave Coffee,"~1,600",~4.2M monthly,66,~1M+,4.5,~95K,$10 Bn,20%,Medium
+ST200,Sleepy Owl Coffee,~280,~1.8M monthly,48,~500K+,4.4,~28K,$10 Bn,20%,Medium

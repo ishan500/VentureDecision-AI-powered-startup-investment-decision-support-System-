@@ -1,0 +1,102 @@
+﻿,,,,,,,,,,,,,
+Startup_ID,Startup_Name,Total_Funding_Raised,Latest_Funding_Amount,Latest_Funding_Round,Latest_Funding_Date,Number_of_Funding_Rounds,Funding_Timeline,Investors_List,Last_Funding_Lead_Investor,Valuation,Revenue,Profit_or_Loss,Gross_Margin
+ST101,CarTrade,~$307 Mn,"₹2,000 Cr",IPO,Aug-21,10,Series A → B → C → D → E → IPO,"Warburg Pincus, Temasek, Tiger Global, March Capital",Public Issue / Market Cap,"~₹3,800 Cr (M-Cap)",₹562 Cr (FY25),Profit: ₹38 Cr (FY25),~68%
+ST102,Droom,~$341 Mn,$20 Mn,Series F,Jul-21,9,Seed → Series A → B → C → D → E → F,"Lightbox, Beenext, Integrated Asset Management, Digital Garage",57 Stars,~$1.2 Bn,₹280 Cr (FY24),Loss: -₹135 Cr (FY24),~22%
+ST103,Park+,~$54 Mn,$17 Mn,Series C,Dec-22,5,Seed → Series A → B → C,"Peak XV, Matrix Partners India, Epiq Capital, Union Square",Epiq Capital,~$340 Mn,₹140 Cr (FY24),Loss: -₹85 Cr (FY24),~35%
+ST104,OTO Capital,~$18 Mn,$10 Mn,Series A,Feb-24,4,Seed → Pre-Series A → Series A,"Matrix Partners India, Prime Venture Partners, Venture Catalysts",Stride Ventures,~$75 Mn,₹45 Cr (FY24),Loss: -₹28 Cr (FY24),~28%
+ST105,GoMechanic,~$62 Mn,₹250 Cr,Series C,Mar-23,6,Seed → Series A → B → C,"Peak XV, Tiger Global, Chiratae Ventures, Orios Venture",Lifelong Group (Acquirer),~$30 Mn,₹210 Cr (FY24),Loss: -₹42 Cr (FY24),~18%
+ST106,Kuwy,~$12 Mn,$5 Mn,Series A,Aug-21,3,Seed → Series A → Corporate Acq,"Volkswagen Finance India, Nordea Finance",Volkswagen Finance,~$45 Mn,₹65 Cr (FY24),Profit: ₹4 Cr (FY24),~32%
+ST107,Fixcraft,~$5 Mn,$1.2 Mn,Pre-Series A,Mar-23,3,Seed → Angel → Pre-Series A,"IPV, Mango Accelerator, Angel Investors",Inflection Point Ventures,~$20 Mn,₹22 Cr (FY24),Loss: -₹8 Cr (FY24),~25%
+ST108,Cardekho Gaadi,N/A (Parent),N/A (Parent),Corporate Internal,Jan-19,N/A,Parent Capital Infusion,CarDekho Group (Girnar Software),CarDekho (Parent),N/A,₹320 Cr (FY24),Loss: -₹45 Cr (FY24),~20%
+ST109,Kuku FM,~$72 Mn,$25 Mn,Series C,Sep-23,5,Seed → Series A → B → C,"BGV, Vertex Ventures, Elevation Capital, Paramark Ventures",FundersClub / BGV,~$250 Mn,₹88 Cr (FY24),Loss: -₹115 Cr (FY24),~65%
+ST110,Pocket FM,~$196 Mn,$103 Mn,Series D,Mar-24,6,Seed → Series A → B → C → D,"Lightspeed, StepStone Group, Tanglin Venture Partners",Lightspeed Venture Partners,~$750 Mn,₹650 Cr (FY25),Loss: -₹180 Cr (FY25),~70%
+ST111,Yulu,~$124 Mn,$19.2 Mn,Series B Ext,Feb-24,8,Seed → Series A → B → B Ext,"Magna International, Bajaj Auto, Wavemaker Partners",Magna International,~$220 Mn,₹123 Cr (FY24),Loss: -₹95 Cr (FY24),~28%
+ST112,ShareChat,~$1.2 Bn,$49 Mn,Series H / Debt,Apr-24,12,Seed → Series A → B → C → D → E → F → G → H,"Lightspeed, Temasek, Google, Tiger Global, Moore Strategic","Lightspeed, Temasek",~$1.5 Bn,₹540 Cr (FY24),Loss: -₹920 Cr (FY24),~42%
+ST113,CleverTap,~$182 Mn,$105 Mn,Series D,Aug-22,6,Seed → Series A → B → C → D,"CDPQ, Tiger Global, Peak XV, Accel",CDPQ,~$775 Mn,₹380 Cr (FY24),Loss: -₹62 Cr (FY24),~72%
+ST114,Cult.fit,~$670 Mn,$10.2 Mn,Series F Ext,Feb-24,11,Series A → B → C → D → E → F,"Zomato, Temasek, Kalaari Capital, Tata Digital, Chiratae",Valecha Investments,~$1.5 Bn,₹690 Cr (FY24),Loss: -₹325 Cr (FY24),~38%
+ST115,Acko Drive,N/A (Parent),N/A (Parent),Corporate Internal,Jan-19,N/A,Parent Capital Infusion,ACKO General Insurance (Parent),ACKO (Parent),N/A,₹85 Cr (FY24),Loss: -₹30 Cr (FY24),~24%
+ST116,Dunzo,~$497 Mn,$50 Mn,Series E,Apr-23,11,Seed → Series A → B → C → D → E,"Reliance Retail, Google, Lightbox, Blume Ventures",Reliance Retail,~$200 Mn,₹180 Cr (FY24),"Loss: -₹1,200 Cr (FY24)",~10%
+ST117,Milkbasket,~$33 Mn,₹120 Cr,Series B,Aug-21,7,Seed → Series A → B,"Reliance Retail, Kalaari Capital, Unilever Ventures",Reliance Retail (Acquirer),~$40 Mn,₹350 Cr (FY24),Profit: ₹8 Cr (FY24),~22%
+ST118,Otipy,~$44 Mn,$32 Mn,Series B,Mar-22,4,Seed → Series A → B,"WestBridge Capital, SIG Venture Capital, Omidyar Network",WestBridge Capital,~$140 Mn,₹115 Cr (FY24),Loss: -₹48 Cr (FY24),~26%
+ST119,Pluckk,~$10 Mn,$5 Mn,Series A,Jan-23,2,Seed → Series A,"Exponentia Ventures, Kareena Kapoor Khan",Exponentia Ventures,~$35 Mn,₹42 Cr (FY24),Loss: -₹18 Cr (FY24),~24%
+ST120,Country Delight,~$300 Mn,$20 Mn,Series E,Jan-24,8,Seed → Series A → B → C → D → E,"Temasek, Matrix Partners India, Venturi Partners, Orios",Venturi Partners / Temasek,~$820 Mn,₹900 Cr (FY24),Loss: -₹120 Cr (FY24),~32%
+ST121,Fraazo,~$65 Mn,$50 Mn,Series B,Oct-21,3,Seed → Series A → B,"WestBridge Capital, Sixteenth Street Capital, Equanimity",WestBridge Capital,~$120 Mn,₹15 Cr,Loss: -₹80 Cr (FY24),~12%
+ST122,KisanKonnect,~$10 Mn,$4.2 Mn,Pre-Series A,Feb-24,3,Seed → Pre-Series A,"Green Frontier Capital, Shilpa Shetty, Angel Investors",Green Frontier Capital,~$30 Mn,₹120 Cr (FY24),Loss: -₹14 Cr (FY24),~25%
+ST123,DeepRooted,~$16 Mn,$12.5 Mn,Series A,Sep-22,3,Seed → Series A,"IvyCap Ventures, Accel, Omnivore",IvyCap Ventures,~$45 Mn,₹55 Cr (FY24),Loss: -₹22 Cr (FY24),~22%
+ST124,Tendercuts,~$19 Mn,₹80 Cr,Series A,Nov-23,4,Seed → Series A,"Paragon Partners, Nabventures",GoodToGo (Acquirer),~$25 Mn,₹80 Cr (FY24),Loss: -₹16 Cr (FY24),~28%
+ST125,Fipola,~$15 Mn,$9 Mn,Series A,Jan-22,3,Seed → Series A,"CKR Holdings, Institutional Angels",CKR Holdings,~$20 Mn,₹10 Cr,Loss: -₹35 Cr (FY24),~15%
+ST126,Supr Daily,~$18 Mn,₹150 Cr,Series A,May-22,4,Seed → Series A → Acq by Swiggy,"Swiggy, Y Combinator, Matrix Partners",Swiggy (Parent),N/A,₹210 Cr (FY24),Loss: -₹45 Cr (FY24),~20%
+ST127,Livspace,~$450 Mn,$180 Mn,Series F,Feb-22,8,Series A → B → C → D → E → F,"KKR, Ingka Ventures (IKEA), Venturi Partners, Jungle",KKR,~$1.2 Bn,"₹1,150 Cr (FY24)",Loss: -₹380 Cr (FY24),~42%
+ST128,Snoonu India,~$12 Mn,$5 Mn,Seed Round,Jan-23,2,Seed → Venture,"Qatar Development Bank, Regional VCs",QDB,~$30 Mn,₹18 Cr (FY24),Loss: -₹6 Cr (FY24),~18%
+ST129,Ola Dash,N/A (Parent),N/A (Parent),Corporate Internal,Oct-21,N/A,Parent Capital Infusion,ANI Technologies (Ola),Ola (Parent),N/A,Discontinued,N/A,N/A
+ST130,HomeLane,~$115 Mn,₹75 Cr,Series E Ext,Sep-23,8,Series A → B → C → D → E,"Accel, Peak XV, IIFL, Stride Ventures",IIFL Fintech Fund,~$260 Mn,₹610 Cr (FY24),Loss: -₹72 Cr (FY24),~38%
+ST131,Slice,~$340 Mn,$50 Mn,Series C Ext,Nov-23,7,Seed → Series A → B → C,"Tiger Global, Insight Partners, Blume Ventures, GGV",Insight Partners,~$1.8 Bn,₹850 Cr (FY24),Loss: -₹240 Cr (FY24),~52%
+ST132,Upstox,~$300 Mn,$25 Mn,Series C,Nov-21,5,Seed → Series A → B → C,"Ratan Tata, Tiger Global, Kalaari Capital",Tiger Global,~$3.4 Bn,"₹1,300 Cr (FY24)",Profit: ₹210 Cr (FY24),~78%
+ST133,OneCard,~$225 Mn,$100 Mn,Series D,Jul-22,5,Seed → Series A → B → C → D,"Peak XV, QED Investors, Matrix Partners India, Temasek",Temasek,~$1.4 Bn,₹580 Cr (FY24),Loss: -₹180 Cr (FY24),~45%
+ST134,Money View,~$185 Mn,$75 Mn,Series E,Dec-22,6,Series A → B → C → D → E,"Tiger Global, Apis Partners, Winter Capital, Accel",Apis Partners,~$1.2 Bn,"₹1,012 Cr (FY24)",Profit: ₹170 Cr (FY24),~62%
+ST135,KreditBee,~$350 Mn,$100 Mn,Series D Ext,Mar-23,7,Series A → B → C → D,"Advent International, MUFG, PremjiInvest, Motilal Oswal",Advent International / MUFG,~$700 Mn,"₹1,250 Cr (FY24)",Profit: ₹145 Cr (FY24),~58%
+ST136,Perfios,~$460 Mn,$80 Mn,Series D / PE,Mar-24,6,Series A → B → C → D,"Teachers' Venture Growth, KKR, Bessemer Venture Partners",TVG (Ontario Teachers'),~$1.0 Bn,₹620 Cr (FY24),Profit: ₹28 Cr (FY24),~75%
+ST137,InCred,~$170 Mn,₹500 Cr,Series D,Dec-23,6,Series A → B → C → D,"KKR, OakNorth, MEMG (Ranjan Pai), Abu Dhabi Sovereign",MEMG Family Office,~$1.04 Bn,"₹1,270 Cr (FY24)",Profit: ₹316 Cr (FY24),~64%
+ST138,Yubi (CredAvenue),~$220 Mn,$137 Mn,Series B,Mar-22,4,Seed → Series A → B,"Insight Partners, BGV, Peak XV, Dragoneer",Insight Partners,~$1.3 Bn,₹480 Cr (FY24),Loss: -₹420 Cr (FY24),~48%
+ST139,Oxyzo,~$200 Mn,$200 Mn,Series A,Mar-22,1,Series A (Unicorn),"Alpha Wave, Tiger Global, Norwest, Matrix Partners","Alpha Wave, Tiger Global",~$1.0 Bn,₹920 Cr (FY24),Profit: ₹290 Cr (FY24),~55%
+ST140,Vivriti Capital,~$210 Mn,$30 Mn,Series C Ext,Nov-23,5,Series A → B → C,"Creation Investments, TVS Capital, Lightrock",TVS Capital Funds,~$650 Mn,"₹1,100 Cr (FY24)",Profit: ₹185 Cr (FY24),~52%
+ST141,CoinSwitch,~$300 Mn,$260 Mn,Series C,Oct-21,4,Seed → Series A → B → C,"Andreessen Horowitz (a16z), Coinbase Ventures, Tiger Global","a16z, Coinbase Ventures",~$1.9 Bn,₹180 Cr (FY24),Loss: -₹120 Cr (FY24),~50%
+ST142,CoinDCX,~$245 Mn,$135 Mn,Series D,Apr-22,6,Seed → Series A → B → C → D,"Pantera Capital, Steadview, BGV, Coinbase Ventures",Pantera Capital,~$2.15 Bn,₹165 Cr (FY24),Loss: -₹95 Cr (FY24),~52%
+ST143,Juspay,~$87 Mn,$60 Mn,Series C,Dec-21,4,Seed → Series A → B → C,"SoftBank Vision Fund 2, VCC, Accel",SoftBank,~$460 Mn,₹320 Cr (FY24),Loss: -₹25 Cr (FY24),~65%
+ST144,Indifi,~$110 Mn,$35 Mn,Series E,Jun-23,6,Series A → B → C → D → E,"ICICI Venture, British International Investment, Accel",ICICI Venture,~$220 Mn,₹260 Cr (FY24),Profit: ₹12 Cr (FY24),~58%
+ST145,Lendingkart,~$280 Mn,₹200 Cr,Series D Ext,Oct-24,9,Series A → B → C → D,"Fullerton Financial Holdings, Bertelsmann, Saama Capital",Fullerton Financial,~$350 Mn,₹860 Cr (FY24),Profit: ₹60 Cr (FY24),~52%
+ST146,Rupeek,~$160 Mn,$16 Mn,Series C Ext,Jan-23,7,Seed → Series A → B → C,"Peak XV, Accel, Bertelsmann, GVT","Accel, Peak XV",~$500 Mn,₹130 Cr (FY24),Loss: -₹140 Cr (FY24),~42%
+ST147,Jar,~$58 Mn,$22.6 Mn,Series B,Aug-22,3,Seed → Series A → B,"Tiger Global, Rocketship.vc, Arkam Ventures, WEH",Tiger Global,~$300 Mn,₹45 Cr (FY24),Loss: -₹110 Cr (FY24),~38%
+ST148,Mswipe,~$145 Mn,$20 Mn,Series E Ext,Mar-24,8,Series A → B → C → D → E,"Matrix Partners India, BGV, Falcon Edge, DSG Consumer",Matrix Partners,~$400 Mn,₹290 Cr (FY24),Loss: -₹48 Cr (FY24),~42%
+ST149,axio (Capital Float),~$140 Mn,$20 Mn,Series C Ext,Oct-23,8,Series A → B → C,"Elevation Capital, Lightrock, Ribbit Capital, Amazon",Elevation Capital,~$280 Mn,₹310 Cr (FY24),Loss: -₹125 Cr (FY24),~45%
+ST150,PayU India,N/A (Parent),N/A (Parent),Corporate Internal,Mar-24,N/A,Parent Corporate Infusion,Prosus / Naspers (Parent),Prosus (Parent),N/A,"₹3,200 Cr (FY24)",Profit: ₹110 Cr (FY24),~58%
+ST151,Fibe (EarlySalary),~$210 Mn,$90 Mn,Series E,Jun-24,6,Series A → B → C → D → E,"TR Capital, Trifecta, Chiratae, Eight Roads, Norwest",TR Capital / Trifecta,~$550 Mn,₹820 Cr (FY24),Profit: ₹112 Cr (FY24),~62%
+ST152,Stashfin,~$140 Mn,$270 Mn,Series C Ext,Jun-22,5,Seed → Series A → B → C,"Uncorrelated Ventures, Fasanara Capital, Absolute",Uncorrelated Ventures,~$450 Mn,₹380 Cr (FY24),Loss: -₹65 Cr (FY24),~50%
+ST153,CASHe,~$50 Mn,$20 Mn,Series B,Jan-22,4,Seed → Series A → B,"TSLC, Florintree Advisors, Angel Investors",Florintree Advisors,~$200 Mn,₹560 Cr (FY24),Profit: ₹38 Cr (FY24),~55%
+ST154,Niyo,~$180 Mn,$30 Mn,Series C Ext,Jul-22,5,Seed → Series A → B → C,"Accel, Lightrock, JS Capital, Multiples PE","Accel, Lightrock",~$400 Mn,₹160 Cr (FY24),Loss: -₹180 Cr (FY24),~40%
+ST155,Progcap,~$100 Mn,$40 Mn,Series C Ext,Jun-22,5,Seed → Series A → B → C,"Tiger Global, Peak XV, Creation Investments","Tiger Global, Peak XV",~$600 Mn,₹210 Cr (FY24),Loss: -₹45 Cr (FY24),~48%
+ST156,KredX,~$36 Mn,$26 Mn,Series B,Dec-19,3,Seed → Series A → B,"Tiger Global, Peak XV, Prime Venture Partners",Tiger Global,~$150 Mn,₹110 Cr (FY24),Loss: -₹32 Cr (FY24),~42%
+ST157,Velocity,~$30 Mn,$20 Mn,Series B,May-24,3,Seed → Series A → B,"Valar Ventures, Presight Capital",Valar Ventures,~$120 Mn,₹65 Cr (FY24),Loss: -₹24 Cr (FY24),~45%
+ST158,GetVantage,~$40 Mn,$36 Mn,Series A,Jun-22,3,Seed → Pre-Series A → Series A,"Venture Catalysts, Chiratae, Varanium, Sony Innovation",Venture Catalysts,~$100 Mn,₹35 Cr (FY24),Loss: -₹15 Cr (FY24),~40%
+ST159,Klub,~$20 Mn,$15 Mn,Series A,Aug-21,3,Seed → Pre-Series A → Series A,"Peak XV Surge, Alteria Capital, Venture Catalysts",Surge / Alteria,~$90 Mn,₹28 Cr (FY24),Loss: -₹12 Cr (FY24),~38%
+ST160,Smallcase,~$65 Mn,$40 Mn,Series C,Aug-21,4,Seed → Series A → B → C,"Faering Capital, Amazon Smbhav Fund, Peak XV, Blume",Faering Capital,~$350 Mn,₹82 Cr (FY24),Loss: -₹42 Cr (FY24),~65%
+ST161,INDmoney,~$143 Mn,$11 Mn,Series D Ext,Jan-23,5,Seed → Series A → B → C → D,"Tiger Global, Steadview Capital, Dragoneer, Sixteenth Street",Tiger Global,~$650 Mn,₹140 Cr (FY24),Loss: -₹75 Cr (FY24),~55%
+ST162,Scripbox,~$88 Mn,$21 Mn,Series D,Jan-22,6,Seed → Series A → B → C → D,"Accurate, Omidyar Network, AngelList, Trifecta",Accurate,~$220 Mn,₹75 Cr (FY24),Loss: -₹58 Cr (FY24),~50%
+ST163,Kuvera,~$10 Mn,Acquisition,Series A,Feb-24,3,Seed → Series A → Acq,"Eight Roads Ventures, CRED (Acquirer)",CRED (Acquirer),~$25 Mn,₹18 Cr (FY24),Loss: -₹8 Cr (FY24),~45%
+ST164,Wint Wealth,~$20 Mn,$15 Mn,Series A,May-22,3,Seed → Pre-Series A → Series A,"Eight Roads, Vertex Ventures, 3one4 Capital",Eight Roads Ventures,~$90 Mn,₹32 Cr (FY24),Loss: -₹14 Cr (FY24),~52%
+ST165,LiquiLoans,~$25 Mn,$10 Mn,Series B,May-22,3,Seed → Series A → B,"CRED, Matrix Partners India, Tanglin Venture",CRED,~$200 Mn,₹195 Cr (FY24),Profit: ₹35 Cr (FY24),~58%
+ST166,Turno,~$16.8 Mn,$13.8 Mn,Series A,Feb-23,2,Seed → Series A,"Bessemer Venture Partners, BGV, Stellaris Venture",Bessemer / BGV,~$70 Mn,₹48 Cr (FY24),Loss: -₹22 Cr (FY24),~32%
+ST167,Revfin,~$35 Mn,$14 Mn,Series B,Dec-23,4,Seed → Series A → B,"Omidyar Network, Companion Capital, ADB",Omidyar Network,~$110 Mn,₹92 Cr (FY24),Profit: ₹8 Cr (FY24),~48%
+ST168,Raise Financial (Dhan),~$22 Mn,$15 Mn,Series A,Jan-22,2,Seed → Series A,"Mirae Asset, Blume Ventures, Multiples PE",Mirae Asset Venture,~$120 Mn,₹115 Cr (FY24),Profit: ₹12 Cr (FY24),~68%
+ST169,ZestMoney,~$140 Mn,Acquisition,Series C,Apr-24,8,Seed → Series A → B → C,"DMI Finance, PayU, Ribbit Capital, Omidyar",DMI Finance (Acquirer),~$15 Mn,Scale-down,N/A,N/A
+ST170,Faircent,~$30 Mn,$10 Mn,Series B,Jan-21,5,Seed → Series A → B,"Muthoot Fincorp, JM Financial, Bennett Coleman",Muthoot Fincorp,~$80 Mn,₹42 Cr (FY24),Profit: ₹3 Cr (FY24),~45%
+ST171,Purplle,~$390 Mn,$100 Mn,Series E Ext,Jul-24,10,Series A → B → C → D → E,"ADIA, Peak XV, Goldman Sachs, Blume Ventures",ADIA,~$1.3 Bn,₹680 Cr (FY24),Loss: -₹124 Cr (FY24),~62%
+ST172,Licious,~$490 Mn,$150 Mn,Series F,Mar-22,9,Series A → B → C → D → E → F,"Amansa Capital, Kotak PE, Temasek, 3one4 Capital",Amansa Capital,~$1.47 Bn,₹750 Cr (FY24),Loss: -₹290 Cr (FY24),~32%
+ST173,The Good Glamm Group,~$270 Mn,$30 Mn,Series D Ext,Apr-24,8,Series A → B → C → D,"Prosus, Warburg Pincus, Bessemer, L'Occitane",Prosus Ventures,~$1.2 Bn,₹640 Cr (FY24),Loss: -₹310 Cr (FY24),~55%
+ST174,Wakefit,~$145 Mn,$40 Mn,Series D,Jan-23,5,Series A → B → C → D,"Investcorp, Peak XV, Verlinvest, SIG",Investcorp,~$320 Mn,"₹1,010 Cr (FY24)",Loss: -₹120 Cr (FY24),~42%
+ST175,Sugar Cosmetics,~$105 Mn,$50 Mn,Series D,May-22,6,Seed → Series A → B → C → D,"L Catterton, A91 Partners, Elevation Capital",L Catterton,~$500 Mn,₹500 Cr (FY24),Loss: -₹35 Cr (FY24),~58%
+ST176,WOW Skin Science,~$125 Mn,$48 Mn,PE Round,May-22,3,Angel → PE Round,"GIC (Singapore), ChrysCapital",GIC,~$400 Mn,₹320 Cr (FY24),Loss: -₹110 Cr (FY24),~48%
+ST177,Minimalist,~$15 Mn,$14 Mn,Series A,Aug-21,2,Seed → Series A,"Peak XV, Unilever Ventures",Peak XV Partners,~$120 Mn,₹350 Cr (FY24),Profit: ₹18 Cr (FY24),~65%
+ST178,Plum Goodness,~$50 Mn,$35 Mn,Series C,Mar-22,4,Seed → Series A → B → C,"A91 Partners, Unilever Ventures, Faering Capital",A91 Partners,~$250 Mn,₹320 Cr (FY24),Loss: -₹42 Cr (FY24),~58%
+ST179,MCaffeine,~$45 Mn,$30 Mn,Series C,Mar-22,5,Seed → Series A → B → C,"Singularity Growth, Amicus Capital, Paragon Partners",Singularity Growth,~$220 Mn,₹210 Cr (FY24),Loss: -₹85 Cr (FY24),~62%
+ST180,The Man Company,~$20 Mn,Acquisition,Series B,Sep-24,5,Seed → Series A → B,"Emami (Acquirer), FMCG Partners",Emami (Acquirer),~$50 Mn,₹185 Cr (FY24),Loss: -₹18 Cr (FY24),~52%
+ST181,Beardo,~$12 Mn,Acquisition,Series A,Jul-20,4,Seed → Series A,"Marico (Acquirer), Venture Catalysts",Marico (Acquirer),~$45 Mn,₹140 Cr (FY24),Profit: ₹12 Cr (FY24),~55%
+ST182,Man Matters (Mosaic),~$38 Mn,$24 Mn,Series B,Nov-22,3,Seed → Series A → B,"AdvantEdge, Elevation Capital, Matrix Partners India",AdvantEdge,~$150 Mn,₹220 Cr (FY24),Loss: -₹62 Cr (FY24),~58%
+ST183,Kapiva,~$42 Mn,$15 Mn,Series C Ext,Oct-23,5,Seed → Series A → B → C,"3one4 Capital, Vertex Ventures, Fireside Ventures",3one4 Capital,~$130 Mn,₹210 Cr (FY24),Loss: -₹48 Cr (FY24),~54%
+ST184,Snitch,~$14 Mn,$13.2 Mn,Series A,Dec-23,2,Seed → Series A,"SWC Global, IvyCap Ventures",SWC Global,~$75 Mn,₹250 Cr (FY24),Profit: ₹15 Cr (FY24),~52%
+ST185,Bewakoof,~$40 Mn,Acquisition,Series B,Jan-23,6,Seed → Series A → B,"Aditya Birla Digital (TMRW), IndigoEdge",TMRW (Acquirer),~$60 Mn,₹170 Cr (FY24),Loss: -₹35 Cr (FY24),~42%
+ST186,The Souled Store,~$35 Mn,$16 Mn,Series C,Mar-23,4,Seed → Series A → B → C,"Xponentia Capital, Elevation Capital",Xponentia Capital,~$140 Mn,₹280 Cr (FY24),Profit: ₹8 Cr (FY24),~55%
+ST187,Clovia,~$25 Mn,Acquisition,Series B,Mar-22,5,Seed → Series A → B,"Reliance Retail (Acquirer), IvyCap Ventures",Reliance Retail (Acquirer),~$125 Mn,₹310 Cr (FY24),Loss: -₹28 Cr (FY24),~48%
+ST188,Zivame,~$68 Mn,Acquisition,Series C,May-20,7,Series A → B → C,"Reliance Retail (Acquirer), Zodius Capital",Reliance Retail (Acquirer),~$180 Mn,₹340 Cr (FY24),Loss: -₹42 Cr (FY24),~45%
+ST189,BlueStone,~$220 Mn,₹550 Cr,Pre-IPO / PE,Aug-24,11,Series A → B → C → D → Pre-IPO,"Peak XV, Accel, Kalaari, MEMG (Ranjan Pai)",Ranjan Pai (MEMG),~$960 Mn,"₹1,270 Cr (FY24)",Loss: -₹140 Cr (FY24),~48%
+ST190,CaratLane,~$58 Mn,"₹4,621 Cr",Series D,Aug-23,6,Series A → B → C → D,Titan Company (Parent),Titan Company,~$2.0 Bn,"₹3,080 Cr (FY24)",Profit: ₹240 Cr (FY24),~38%
+ST191,Giva,~$75 Mn,₹255 Cr,Series B Ext,Jul-24,5,Seed → Series A → B → B Ext,"PremjiInvest, Peak XV, Aditya Birla Ventures",PremjiInvest,~$250 Mn,₹270 Cr (FY24),Loss: -₹58 Cr (FY24),~58%
+ST192,Melorra,~$82 Mn,$16 Mn,Series D,May-22,6,Seed → Series A → B → C → D,"Lightbox, Symphony International",Lightbox,~$180 Mn,₹360 Cr (FY24),Loss: -₹115 Cr (FY24),~32%
+ST193,Nestasia,~$12 Mn,$8 Mn,Series B,Nov-24,3,Seed → Series A → B,"Stellaris Venture Partners, Vertex Ventures",Stellaris Venture Partners,~$50 Mn,₹85 Cr (FY24),Loss: -₹18 Cr (FY24),~48%
+ST194,Beco,~$14 Mn,$10 Mn,Series B,Sep-24,3,Seed → Series A → B,"Tanglin Venture Partners, Rukam Capital",Tanglin Venture Partners,~$45 Mn,₹48 Cr (FY24),Loss: -₹12 Cr (FY24),~45%
+ST195,SuperBottoms,~$8 Mn,$5 Mn,Series A,Aug-23,3,Seed → Pre-Series A → Series A,"Lok Capital, DSG Consumer Partners",Lok Capital,~$30 Mn,₹40 Cr (FY24),Loss: -₹9 Cr (FY24),~42%
+ST196,The Whole Truth,~$22 Mn,$15 Mn,Series B,Dec-22,3,Seed → Series A → B,"Peak XV, Matrix Partners India, RxBn",Peak XV Partners,~$90 Mn,₹95 Cr (FY24),Loss: -₹28 Cr (FY24),~48%
+ST197,Slurrp Farm,~$17 Mn,$7.2 Mn,Series C,Jan-24,4,Seed → Series A → B → C,"Fireside Ventures, Investment Corp",Fireside Ventures,~$60 Mn,₹62 Cr (FY24),Loss: -₹22 Cr (FY24),~45%
+ST198,Blue Tokai Coffee,~$81 Mn,$35 Mn,Series C Ext,Aug-24,6,Seed → Series A → B → C,"Verlinvest, Anicut Capital, A91 Partners",Verlinvest,~$220 Mn,₹220 Cr (FY24),Loss: -₹35 Cr (FY24),~62%
+ST199,Third Wave Coffee,~$66 Mn,$35 Mn,Series C,Sep-23,4,Seed → Series A → B → C,"Creaegis, WestBridge Capital, Multiples PE",Creaegis,~$160 Mn,₹240 Cr (FY24),Loss: -₹54 Cr (FY24),~58%
+ST200,Sleepy Owl Coffee,~$11 Mn,$6.5 Mn,Series A,Nov-21,3,Seed → Pre-Series A → Series A,"Rukam Capital, DSG Consumer Partners",Rukam Capital,~$40 Mn,₹45 Cr (FY24),Loss: -₹16 Cr (FY24),~52%

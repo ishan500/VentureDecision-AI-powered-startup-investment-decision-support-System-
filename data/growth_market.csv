@@ -1,0 +1,98 @@
+﻿Startup_ID,Startup_Name,Employee_Count,Monthly_Visits,Google_Trends_Score,App_Downloads,App_Rating,App_Reviews_Count,TAM,TAM_Growth_Rate,Market_Size_Category
+ST001,Razorpay,"~3,400",~32M monthly,74,~10M+,4.2,~115K,$35 Bn,18%,Very Large
+ST002,CRED,"~1,100",~4.5M monthly,58,~50M+,4.6,~1.2M,$12 Bn,22%,Large
+ST003,Groww,"~2,100",~41M monthly,88,~100M+,4.5,~1.8M,$25 Bn,25%,Very Large
+ST004,Pine Labs,"~3,800",~1.8M monthly,22,~5M+,4,~45K,$40 Bn,14%,Very Large
+ST005,Open,~450,~320K monthly,12,~1M+,3.8,~8.5K,$4 Bn,30%,Medium
+ST006,Jupiter,~550,~1.2M monthly,31,~10M+,4.4,~220K,$8 Bn,28%,Large
+ST007,Fi Money,~400,~850K monthly,25,~10M+,4.3,~180K,$8 Bn,28%,Large
+ST008,MobiKwik,~950,~8.5M monthly,45,~100M+,4.1,~1.9M,$35 Bn,18%,Very Large
+ST009,Blinkit,"~4,500",~14M monthly,92,~50M+,4.6,~1.5M,$60 Bn,45%,Very Large
+ST010,Zepto,"~4,200",~11M monthly,95,~50M+,4.6,~1.1M,$60 Bn,45%,Very Large
+ST011,Swiggy Instamart,"~1,800 (Direct)",~18M,84,~60M+,4.5,~850K,$60 Bn,45%,Very Large
+ST012,BigBasket,"~2,600",~12M,52,~50M+,4.3,~720K,$55 Bn,28%,Very Large
+ST013,BB Now,~450,~4M (Within BB),18,~10M+,4.2,~40K,$45 Bn,35%,Large
+ST014,Flipkart Minutes,~600,~25M (Segment),48,~5M+,4.4,~120K,$60 Bn,42%,Very Large
+ST015,Meesho,"~1,350",~45M,89,~150M+,4.4,~2.4M,$85 Bn,24%,Very Large
+ST016,Myntra,"~2,400",~48M,78,~100M+,4.3,~1.8M,$40 Bn,18%,Very Large
+ST017,Nykaa,"~2,100",~16M,64,~50M+,4.5,~950K,$18 Bn,22%,Large
+ST018,Brainbees (FirstCry),"~2,900",~15M,55,~20M+,4.4,~410K,$12 Bn,15%,Large
+ST019,Lenskart,"~4,200",~8M,62,~15M+,4.5,~380K,$11 Bn,16%,Large
+ST020,Pepperfry,~700,~3.5M,24,~5M+,4.1,~85K,$4.5 Bn,12%,Medium
+ST021,Physics Wallah,"~3,200",~22M,86,~20M+,4.7,~650K,$14 Bn,20%,Large
+ST022,Unacademy,"~1,400",~9M,42,~15M+,4.2,~480K,$14 Bn,15%,Large
+ST023,upGrad,"~1,850",~3.1M,28,~2M+,4,~35K,$3.8 Bn,22%,Medium
+ST024,Vedantu,~850,~4.5M,30,~10M+,4.1,~140K,$8.5 Bn,10%,Medium
+ST025,Classplus,~650,~1.2M,14,~5M+,4.3,~68K,$2.5 Bn,32%,Medium
+ST026,CollegeDekho,~750,~5.2M,21,~500K+,4.2,~12K,$1.2 Bn,18%,Medium
+ST027,Delhivery,"~4,800",~6.5M,36,~1M+,3.9,~45K,$32 Bn,14%,Very Large
+ST028,Shiprocket,~950,~4.8M,33,~5M+,4.2,~92K,$15 Bn,25%,Large
+ST029,Xpressbees,"~2,200",~2.1M,19,~500K+,3.8,~18K,$22 Bn,16%,Very Large
+ST030,Shadowfax,"~1,600",~1.4M,24,~5M+,4.1,~78K,$18 Bn,22%,Large
+ST031,Zomato,"~5,200",~58M,94,~100M+,4.6,~4.5M,$65 Bn,35%,Very Large
+ST032,Swiggy,"~4,800",~44M,88,~100M+,4.4,~3.8M,$65 Bn,32%,Very Large
+ST033,Swish,~250,~650K,15,~1M+,4.3,~14K,$15 Bn,40%,Large
+ST034,Magicpin,~850,~7.2M,41,~10M+,4.2,~240K,$38 Bn,28%,Very Large
+ST035,Rebel Foods,"~2,400",~2.5M,18,~10M+ (Combined),4.1,~110K,$22 Bn,16%,Very Large
+ST036,FreshMenu,~350,~420K,8,~5M+,3.7,~65K,$12 Bn,10%,Large
+ST037,EatSure,~500,~1.1M,19,~5M+,4.2,~88K,$22 Bn,16%,Very Large
+ST038,boAt,"~1,100",~8.4M,72,~10M+ (Wearable App),4,~150K,$14 Bn,15%,Large
+ST039,Noise,~650,~4.1M,54,~10M+ (Wearable App),4.1,~120K,$14 Bn,14%,Large
+ST040,Boult,~400,~2.8M,32,~5M+,3.9,~45K,$14 Bn,16%,Large
+ST041,Fire-Boltt,~550,~3.2M,43,~5M+,3.8,~52K,$14 Bn,12%,Large
+ST042,Zerodha,"~1,200",~62M,82,~50M+ (Kite),4.5,~1.1M,$25 Bn,25%,Very Large
+ST043,PhonePe,"~4,200",~28M,91,~100M+,4.6,~8.5M,$45 Bn,20%,Very Large
+ST044,Angel One,"~3,100",~38M,76,~50M+,4.4,~1.4M,$25 Bn,25%,Very Large
+ST045,Honasa (Mamaearth),"~1,250",~6.8M,55,~10M+,4.3,~310K,$15 Bn,18%,Large
+ST046,Urban Company,"~1,400",~5.5M,49,~10M+,4.6,~480K,$9 Bn,24%,Large
+ST047,LEAD School,"~1,100",~480K,12,~1M+ (Parent App),3.9,~22K,$6 Bn,15%,Medium
+ST048,Teachmint,~350,~850K,10,~10M+,4.1,~165K,$4 Bn,20%,Medium
+ST049,Eruditus,"~1,900",~4.2M (Global),16,N/A (Web Platform),,,$28 Bn (Global Exec Ed),18%,Very Large
+ST050,BYJU'S,"~2,500",~8.1M,35,~100M+,3.2,~1.7M,$15 Bn,5%,Large
+ST051,Practo,"~1,100",~14M,45,~10M+,4.2,~110K,$18 Bn,16%,Large
+ST052,PharmEasy,"~2,200",~22M,52,~50M+,4.1,~420K,$25 Bn,15%,Very Large
+ST053,Tata 1mg,"~1,800",~31M,68,~50M+,4.4,~680K,$25 Bn,18%,Very Large
+ST054,MediBuddy,~850,~3.8M,28,~10M+,4.3,~150K,$18 Bn,20%,Large
+ST055,Healthify,~750,~2.4M,35,~10M+,4.5,~290K,$12 Bn,22%,Large
+ST056,Curefoods,~900,~850K,16,~1M+,4,~18K,$22 Bn,16%,Very Large
+ST057,Porter,"~1,400",~2.9M,48,~10M+,4.4,~210K,$15 Bn,18%,Large
+ST058,BlackBuck,"~1,100",~650K,14,~1M+,4.2,~35K,$35 Bn,12%,Very Large
+ST059,Rivigo,~450,~120K,6,~500K+,3.6,~8K,$35 Bn,12%,Very Large
+ST060,BluSmart,~850,~1.5M,42,~5M+,4.5,~95K,$14 Bn,35%,Large
+ST061,Ola Electric,"~4,200",~5.8M,78,~5M+,4.1,~65K,$28 Bn,25%,Very Large
+ST062,Ather Energy,"~2,600",~2.4M,62,~1M+,4.3,~28K,$28 Bn,30%,Very Large
+ST063,Rapido,"~1,350",~4.8M,75,~50M+,4.4,~850K,$16 Bn,24%,Large
+ST064,Namma Yatri,~200,~1.2M,38,~5M+,4.5,~110K,$16 Bn,30%,Large
+ST065,CarDekho,"~2,100",~34M,58,~10M+,4.3,~220K,$20 Bn,14%,Very Large
+ST066,Cars24,"~2,800",~15M,64,~10M+,4.4,~310K,$20 Bn,15%,Very Large
+ST067,Spinny,"~1,600",~7.5M,49,~5M+,4.3,~85K,$20 Bn,16%,Very Large
+ST068,ACKO,"~1,100",~9.2M,54,~10M+,4.5,~180K,$30 Bn,22%,Very Large
+ST069,Policybazaar,"~6,500",~28M,85,~50M+,4.4,~1.2M,$35 Bn,20%,Very Large
+ST070,Digit Insurance,"~1,400",~3.1M,29,~1M+,4.2,~24K,$30 Bn,24%,Very Large
+ST071,Navi,"~1,600",~2.5M,44,~50M+,4.3,~450K,$25 Bn,28%,Very Large
+ST072,BharatPe,"~1,100",~1.8M,39,~10M+,4.1,~140K,$35 Bn,18%,Very Large
+ST073,Paytm,"~11,000",~45M,81,~100M+,4.4,~7.2M,$45 Bn,15%,Very Large
+ST074,Cashfree Payments,~800,~4.2M,24,~1M+ (Merchant Apps),4,~12K,$35 Bn,18%,Very Large
+ST075,OfBusiness,"~2,300",~850K,18,~500K+,4.1,~10K,$120 Bn,14%,Very Large
+ST076,Infra.Market,"~1,400",~320K,11,0(B2B Web),,,$80 Bn,12%,Very Large
+ST077,Zetwerk,"~1,850",~410K,15,0 (B2B Portal),,,$140 Bn,15%,Very Large
+ST078,ElasticRun,~950,~180K,8,~1M+,3.9,~15K,$45 Bn,16%,Very Large
+ST079,Udaan,"~1,900",~1.1M,28,~10M+,4.1,~280K,$60 Bn,14%,Very Large
+ST080,Ninjacart,"~1,100",~340K,14,~1M+,4,~24K,$55 Bn,18%,Very Large
+ST081,DeHaat,"~1,450",~420K,16,~5M+,4.4,~85K,$40 Bn,22%,Very Large
+ST082,AgroStar,~850,~650K,15,~5M+,4.3,~110K,$40 Bn,20%,Very Large
+ST083,Moglix,"~1,300",~3.8M,22,~1M+,4,~16K,$70 Bn,15%,Very Large
+ST084,Khatabook,~550,~1.4M,29,~50M+,4.4,~1.1M,$8 Bn,10%,Large
+ST085,Dukaan,~180,~950K,19,~5M+,4.2,~62K,$5 Bn,25%,Medium
+ST086,BrowserStack,"~1,150",~7.2M (Global),48,0(DevOps Web),0,0,$15 Bn (Global Dev Ecosystem),20%,Large
+ST087,Snapdeal,~600,~11M,41,~100M+,4,~1.8M,$85 Bn,8%,Very Large
+ST088,Chargebee,"~1,250",~1.9M (Global),26,0 (SaaS Platform),0,0,$12 Bn (Global Subscription Billing),24%,Large
+ST089,Hasura,~250,~850K (Global),18,0 (Dev Platform),0,0,$4 Bn (API Engine Market),35%,Medium
+ST090,InMobi,"~1,600",~2.1M (Corporate),25,Integrated SDK,0,0,$90 Bn (Global Mobile AdTech),12%,Very Large
+ST091,Dream11,"~1,100",~24M,85,~100M+,4.5,~2.5M,$14 Bn,25%,Large
+ST092,MakeMyTrip,"~3,800",~38M,78,~50M+,4.4,~1.3M,$28 Bn,16%,Very Large
+ST093,Goibibo,~850,~14M,46,~50M+,4.3,~920K,$28 Bn,14%,Very Large
+ST094,Yatra,"~1,200",~6.5M,32,~10M+,4.1,~180K,$28 Bn,12%,Very Large
+ST095,TBO.com,"~1,400",~1.8M,15,~500K+,4.2,~9K,$45 Bn (Global B2B Travel Distribution),18%,Very Large
+ST096,ixigo,~750,~28M,62,~50M+,4.5,~1.6M,$22 Bn,20%,Very Large
+ST097,EaseMyTrip,~650,~16M,58,~10M+,4.5,~310K,$28 Bn,16%,Very Large

@@ -1,0 +1,102 @@
+﻿,,,,,,,,
+Startup_ID,Startup_Name,Historical_Exit_Type,Exit_Year,Exit_Valuation_USD_Million,Acquirer_Name,Exit_Status,Exit_Reason,Years_to_Exit
+ST101,CarTrade,IPO,2021,950,Public Issue / NSE,Public,Listed on Public Stock Exchange,12
+ST102,Droom,Private,0,0,0,Active,Still Private,0
+ST103,Park+,Private,0,0,0,Active,Still Private,0
+ST104,OTO Capital,Private,0,0,0,Active,Still Private,0
+ST105,GoMechanic,Acquired,2023,30,Lifelong Group / Servizzy,Acquired,Distressed Acquisition following Governance Audit,7
+ST106,Kuwy,Acquired,2021,45,Volkswagen Finance India,Acquired,Strategic Majority Stake Acquisition by Automotive OEM,4
+ST107,Fixcraft,Private,0,0,0,Active,Still Private,0
+ST108,Cardekho Gaadi,Subsidiary,2019,0,CarDekho Group (Girnar Software),Subsidiary,Built as Internal Vertical under CarDekho,0
+ST109,Kuku FM,Private,0,0,0,Active,Still Private,0
+ST110,Pocket FM,Private,0,0,0,Active,Still Private,0
+ST111,Yulu,Private,0,0,0,Active,Still Private,0
+ST112,ShareChat,Private,0,0,0,Active,Still Private,0
+ST113,CleverTap,Private,0,0,0,Active,Still Private,0
+ST114,Cult.fit,Private,0,0,0,Active,Still Private,0
+ST115,Acko Drive,Subsidiary,2019,0,ACKO General Insurance,Subsidiary,Internal Auto Insurance / Purchase Vertical,0
+ST116,Dunzo,Private,0,0,0,Active,Late Stage Restructuring / Insolvency,0
+ST117,Milkbasket,Acquired,2021,40,Reliance Retail,Acquired,Strategic Buyout to power JioMart Grocery,6
+ST118,Otipy,Private,0,0,0,Active,Still Private,0
+ST119,Pluckk,Private,0,0,0,Active,Still Private,0
+ST120,Country Delight,Private,0,0,0,Active,Still Private,0
+ST121,Fraazo,Private,0,0,0,Inactive,Operations Suspended / Scale-Down,0
+ST122,KisanKonnect,Private,0,0,0,Active,Still Private,0
+ST123,DeepRooted,Private,0,0,0,Active,Still Private,0
+ST124,Tendercuts,Acquired,2023,25,GoodToGo,Acquired,Consolidation in D2C Meat Category,8
+ST125,Fipola,Private,0,0,0,Inactive,Insolvency Proceedings / Liquidation,0
+ST126,Supr Daily,Acquired,2018,50,Swiggy,Subsidiary,Acquired by Swiggy to build Swiggy Daily / Instamart,3
+ST127,Livspace,Private,0,0,0,Active,Still Private,0
+ST128,Snoonu India,Private,0,0,0,Active,Still Private,0
+ST129,Ola Dash,Subsidiary,2022,0,ANI Technologies (Ola),Inactive,Internal Quick Commerce Arm Shutdown by Ola,0
+ST130,HomeLane,Private,0,0,0,Active,Still Private,0
+ST131,Slice,Merged,2024,1800,North East Small Finance Bank,Active,Merger with NESFB to gain Banking License,8
+ST132,Upstox,Private,0,0,0,Active,Still Private,0
+ST133,OneCard,Private,0,0,0,Active,Still Private,0
+ST134,Money View,Private,0,0,0,Active,Still Private,0
+ST135,KreditBee,Private,0,0,0,Active,Still Private,0
+ST136,Perfios,Private,0,0,0,Active,Pre-IPO Stage,0
+ST137,InCred,Private,0,0,0,Active,Still Private,0
+ST138,Yubi (CredAvenue),Private,0,0,0,Active,Still Private,0
+ST139,Oxyzo,Private,0,0,0,Active,Still Private,0
+ST140,Vivriti Capital,Private,0,0,0,Active,Still Private,0
+ST141,CoinSwitch,Private,0,0,0,Active,Still Private,0
+ST142,CoinDCX,Private,0,0,0,Active,Still Private,0
+ST143,Juspay,Private,0,0,0,Active,Still Private,0
+ST144,Indifi,Private,0,0,0,Active,Still Private,0
+ST145,Lendingkart,Private,0,0,0,Active,Still Private,0
+ST146,Rupeek,Private,0,0,0,Active,Still Private,0
+ST147,Jar,Private,0,0,0,Active,Still Private,0
+ST148,Mswipe,Private,0,0,0,Active,Still Private,0
+ST149,axio (Capital Float),Private,0,0,0,Active,Still Private,0
+ST150,PayU India,Subsidiary,2011,0,Prosus / Naspers Group,Subsidiary,Acquired & Operated as Prosus India FinTech Arm,0
+ST151,Fibe (EarlySalary),Private,0,0,0,Active,Still Private,0
+ST152,Stashfin,Private,0,0,0,Active,Still Private,0
+ST153,CASHe,Private,0,0,0,Active,Still Private,0
+ST154,Niyo,Private,0,0,0,Active,Still Private,0
+ST155,Progcap,Private,0,0,0,Active,Still Private,0
+ST156,KredX,Private,0,0,0,Active,Still Private,0
+ST157,Velocity,Private,0,0,0,Active,Still Private,0
+ST158,GetVantage,Private,0,0,0,Active,Still Private,0
+ST159,Klub,Private,0,0,0,Active,Still Private,0
+ST160,Smallcase,Private,0,0,0,Active,Still Private,0
+ST161,INDmoney,Private,0,0,0,Active,Still Private,0
+ST162,Scripbox,Private,0,0,0,Active,Still Private,0
+ST163,Kuvera,Acquired,2024,25,CRED,Acquired,Strategic Acquisition by CRED Wealth,8
+ST164,Wint Wealth,Private,0,0,0,Active,Still Private,0
+ST165,LiquiLoans,Private,0,0,0,Active,Still Private,0
+ST166,Turno,Private,0,0,0,Active,Still Private,0
+ST167,Revfin,Private,0,0,0,Active,Still Private,0
+ST168,Raise Financial (Dhan),Private,0,0,0,Active,Still Private,0
+ST169,ZestMoney,Acquired,2024,15,DMI Finance,Acquired,Fire Sale Asset Buyout by DMI Finance,9
+ST170,Faircent,Private,0,0,0,Active,Still Private,0
+ST171,Purplle,Private,0,0,0,Active,Still Private,0
+ST172,Licious,Private,0,0,0,Active,Still Private,0
+ST173,The Good Glamm Group,Private,0,0,0,Active,Still Private,0
+ST174,Wakefit,Private,0,0,0,Active,Still Private,0
+ST175,Sugar Cosmetics,Private,0,0,0,Active,Still Private,0
+ST176,WOW Skin Science,Private,0,0,0,Active,Still Private,0
+ST177,Minimalist,Private,0,0,0,Active,Still Private,0
+ST178,Plum Goodness,Private,0,0,0,Active,Still Private,0
+ST179,MCaffeine,Private,0,0,0,Active,Still Private,0
+ST180,The Man Company,Acquired,2024,50,Emami,Acquired,100% Acquisition by FMCG Giant Emami,9
+ST181,Beardo,Acquired,2020,45,Marico,Acquired,Strategic Acquisition by FMCG Giant Marico,5
+ST182,Man Matters (Mosaic),Private,0,0,0,Active,Still Private,0
+ST183,Kapiva,Private,0,0,0,Active,Still Private,0
+ST184,Snitch,Private,0,0,0,Active,Still Private,0
+ST185,Bewakoof,Acquired,2023,60,Aditya Birla Digital First (TMRW),Acquired,Majority Stake Acquisition by TMRW,11
+ST186,The Souled Store,Private,0,0,0,Active,Still Private,0
+ST187,Clovia,Acquired,2022,125,Reliance Retail,Acquired,Strategic Buyout by Reliance Retail,9
+ST188,Zivame,Acquired,2020,180,Reliance Retail,Acquired,Strategic Acquisition by Reliance Retail,9
+ST189,BlueStone,Private,0,0,0,Active,Pre-IPO Stage,0
+ST190,CaratLane,Acquired,2023,2000,Titan Company,Subsidiary,100% Buyout of Remaining Founder Stake by Titan,15
+ST191,Giva,Private,0,0,0,Active,Still Private,0
+ST192,Melorra,Private,0,0,0,Active,Still Private,0
+ST193,Nestasia,Private,0,0,0,Active,Still Private,0
+ST194,Beco,Private,0,0,0,Active,Still Private,0
+ST195,SuperBottoms,Private,0,0,0,Active,Still Private,0
+ST196,The Whole Truth,Private,0,0,0,Active,Still Private,0
+ST197,Slurrp Farm,Private,0,0,0,Active,Still Private,0
+ST198,Blue Tokai Coffee,Private,0,0,0,Active,Still Private,0
+ST199,Third Wave Coffee,Private,0,0,0,Active,Still Private,0
+ST200,Sleepy Owl Coffee,Private,0,0,0,Active,Still Private,0

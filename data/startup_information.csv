@@ -1,0 +1,101 @@
+﻿Startup_ID,Startup_Name,sector,founded_year,headquarters,founder_count,funding_stage,current_status
+ST001,Razorpay,FinTech,2014,"Bengaluru, India",2,Late Stage (Series F),Private
+ST002,CRED,FinTech,2018,"Bengaluru, India",1,Late Stage (Series F),Private
+ST003,Groww,FinTech,2016,"Bengaluru, India",4,Late Stage (Series E),Private
+ST004,Pine Labs,FinTech,1998,"Noida, India",3,Public (NSE/BSE),Public
+ST005,Open,FinTech,2017,"Bengaluru, India",4,Late Stage (Series D),Private
+ST006,Jupiter,FinTech,2019,"Mumbai, India",1,Late Stage (Series C),Private
+ST007,Fi Money,FinTech,2019,"Bengaluru, India",2,Late Stage (Series C),Private
+ST008,MobiKwik,FinTech,2009,"Gurugram, India",2,Public (IPO),Public
+ST009,Blinkit,Quick Commerce,2013,"Gurugram, India",3,Late Stage (Series G),Acquired
+ST010,Zepto,Quick Commerce,2021,"Mumbai, India",2,Late Stage (Series G),Private
+ST011,Swiggy Instamart,Quick Commerce,2020,"Bengaluru, India",3,Public (Parent IPO),Subsidiary
+ST012,BigBasket,Quick Commerce,2011,"Bengaluru, India",5,Late Stage (Series G),Acquired
+ST013,BB Now,Quick Commerce,2022,"Bengaluru, India",5,Growth Stage,Subsidiary
+ST014,Flipkart Minutes,Quick Commerce,2024,"Bengaluru, India",2,Early Stage,Subsidiary
+ST015,Meesho,E-commerce,2015,"Bengaluru, India",2,Late Stage (Series F),Private
+ST016,Myntra,E-commerce,2007,"Bengaluru, India",3,Late Stage (Series E),Acquired
+ST017,Nykaa,E-commerce,2012,"Mumbai, India",1,Public (IPO),Public
+ST018,FirstCry,E-commerce,2010,"Pune, India",3,Public (IPO),Public
+ST019,Lenskart,E-commerce,2010,"Gurugram, India",3,Public (NSE/BSE),Private
+ST020,Pepperfry,E-commerce,2011,"Mumbai, India",2,Late Stage (Pre-IPO),Private
+ST021,Physics Wallah,EdTech,2016,"Noida, India",2,Growth Stage (Series B),Private
+ST022,Unacademy,EdTech,2015,"Bengaluru, India",3,Late Stage (Series H),Private
+ST023,upGrad,EdTech,2015,"Mumbai, India",3,Late Stage (Private Equity),Private
+ST024,Vedantu,EdTech,2011,"Bengaluru, India",4,Late Stage (Series E),Private
+ST025,Classplus,EdTech,2018,"Noida, India",2,Late Stage (Series E),Private
+ST026,CollegeDekho,EdTech,2015,"Gurugram, India",3,Growth Stage (Series B),Private
+ST027,Delhivery,Supply Chain & Logistics,2011,"Gurugram, India",5,Public (IPO),Public
+ST028,Shiprocket,Supply Chain & Logistics,2017,"Gurugram, India",3,Late Stage (Series E),Private
+ST029,Xpressbees,Supply Chain & Logistics,2015,"Pune, India",2,Late Stage (Private Equity),Private
+ST030,Shadowfax,Supply Chain & Logistics,2015,"Bengaluru, India",3,Late Stage (Series E),Private
+ST031,Zomato,Quick Commerce / Food Delivery,2008,"Gurugram, India",2,Public (NSE/BSE),Public
+ST032,Swiggy,Quick Commerce / Food Delivery,2014,"Bengaluru, India",3,Public (NSE/BSE),Public
+ST033,Swish,Food Delivery,2024,"Bengaluru, India",3,Growth Stage (Series B),Private
+ST034,Magicpin,E-commerce / Hyperlocal,2015,"Gurugram, India",2,Late Stage (Series D),Private
+ST035,Rebel Foods,FoodTech / Cloud Kitchen,2011,"Mumbai, India",2,Late Stage (Series F),Private
+ST036,FreshMenu,FoodTech / Cloud Kitchen,2014,"Bengaluru, India",1,Late Stage (Series C),Private
+ST037,EatSure,FoodTech / Cloud Kitchen,2020,"Mumbai, India",2,Late Stage (Series D / Subsidiary),Subsidiary
+ST038,boAt,Consumer Electronics,2016,"Delhi, India",2,Late Stage (Pre-IPO / PE),Private
+ST039,Noise,Consumer Electronics,2014,"Gurugram, India",2,Growth Stage (Series A),Private
+ST040,Boult,Consumer Electronics,2017,"Gurugram, India",2,Growth Stage (Bootstrapped),Private
+ST041,Fire-Boltt,Consumer Electronics,2015,"Noida, India",2,Growth Stage (Bootstrapped),Private
+ST042,Zerodha,FinTech,2010,"Bengaluru, India",2,Late Stage (Bootstrapped / Profitable),Private
+ST043,PhonePe,FinTech,2015,"Bengaluru, India",3,Late Stage (Series D / Corporate Infusion),Subsidiary
+ST044,Angel One,FinTech,1996,"Mumbai, India",1,Public (NSE/BSE),Public
+ST045,Mamaearth,D2C / E-commerce,2016,"Gurugram, India",2,Public (NSE/BSE),Public
+ST046,Urban Company,Consumer Services,2014,"Gurugram, India",3,Late Stage (Series F / Pre-IPO),Private
+ST047,LEAD School,EdTech,2012,"Mumbai, India",2,Late Stage (Series E),Private
+ST048,Teachmint,EdTech,2020,"Bengaluru, India",4,Late Stage (Series B),Private
+ST049,Eruditus,EdTech,2010,"Mumbai, India",2,Late Stage (Series F),Private
+ST050,BYJU'S,EdTech,2011,"Bengaluru, India",2,Late Stage (Restructuring / Insolvency Stage),Private
+ST051,Practo,HealthTech,2008,"Bengaluru, India",2,Late Stage (Series D),Private
+ST052,PharmEasy,HealthTech,2015,"Mumbai, India",2,Late Stage (Series F / Debt Restructuring),Private
+ST053,Tata 1mg,HealthTech,2015,"Gurugram, India",3,Late Stage (Series D),Acquired
+ST054,MediBuddy,HealthTech,2013,"Bengaluru, India",2,Late Stage (Series C),Private
+ST055,Healthify,HealthTech,2012,"Bengaluru, India",3,Late Stage (Series C),Private
+ST056,Curefoods,FoodTech / Cloud Kitchen,2020,"Bengaluru, India",1,Late Stage (Series D),Private
+ST057,Porter,Supply Chain & Logistics,2014,"Bengaluru, India",3,Late Stage (Series H / Pre-IPO),Private
+ST058,BlackBuck,Supply Chain & Logistics,2015,"Bengaluru, India",3,Public (NSE/BSE),Public
+ST059,Rivigo,Supply Chain & Logistics,2014,"Gurugram, India",2,Late Stage (Acquired by Mahindra Logistics),Acquired
+ST060,BluSmart,Mobility / CleanTech,2019,"Gurugram, India",3,Late Stage (Series B Extended),Private
+ST061,Ola Electric,Mobility / CleanTech,2017,"Bengaluru, India",1,Public (NSE/BSE),Public
+ST062,Ather Energy,Mobility / CleanTech,2013,"Bengaluru, India",2,Public (NSE/BSE),Public
+ST063,Rapido,Mobility / Logistics,2015,"Bengaluru, India",3,Late Stage (Series E),Private
+ST064,Namma Yatri,Mobility / Open Network,2022,"Bengaluru, India",2,Early Stage (Seed Round),Private
+ST065,CarDekho,E-commerce / AutoTech,2008,"Jaipur, India",2,Late Stage (Series E / Pre-IPO),Private
+ST066,Cars24,E-commerce / AutoTech,2015,"Gurugram, India",4,Late Stage (Series G),Private
+ST067,Spinny,E-commerce / AutoTech,2015,"Gurugram, India",3,Late Stage (Series E),Private
+ST068,ACKO,FinTech / InsurTech,2016,"Bengaluru, India",2,Late Stage (Series D),Private
+ST069,Policybazaar,FinTech / InsurTech,2008,"Gurugram, India",3,Public (NSE/BSE),Public
+ST070,Digit Insurance,FinTech / InsurTech,2016,"Bengaluru, India",1,Public (NSE/BSE),Public
+ST071,Navi,FinTech,2018,"Bengaluru, India",2,Late Stage (Series G / Pre-IPO),Private
+ST072,BharatPe,FinTech,2018,"New Delhi, India",3,Late Stage (Series E),Private
+ST073,Paytm,FinTech,2010,"Noida, India",1,Public (NSE/BSE),Public
+ST074,Cashfree Payments,FinTech,2015,"Bengaluru, India",2,Late Stage (Series B),Private
+ST075,OfBusiness,B2B Marketplace & FinTech,2015,"Gurugram, India",3,Late Stage (Pre-IPO),Private
+ST076,Infra.Market,B2B Marketplace / Construction,2016,"Thane, India",2,Late Stage (Series D / Pre-IPO),Private
+ST077,Zetwerk,B2B Manufacturing,2018,"Bengaluru, India",4,Late Stage (Series F),Private
+ST078,ElasticRun,B2B Logistics / E-commerce,2016,"Pune, India",3,Late Stage (Series E),Private
+ST079,Udaan,B2B E-commerce,2016,"Bengaluru, India",3,Late Stage (Series E),Private
+ST080,Ninjacart,Agritech / Supply Chain,2015,"Bengaluru, India",5,Late Stage (Series D),Private
+ST081,DeHaat,Agritech,2012,"Patna, India",4,Late Stage (Series E),Private
+ST082,AgroStar,Agritech,2013,"Pune, India",2,Late Stage (Series D),Private
+ST083,Moglix,B2B E-commerce / Procurement,2015,"Noida, India",1,Late Stage (Series F),Private
+ST084,Khatabook,FinTech / SaaS,2017,"Bengaluru, India",4,Late Stage (Series C),Private
+ST085,Dukaan,SaaS / E-commerce Infrastructure,2020,"Bengaluru, India",2,Growth Stage (Series A),Private
+ST086,BrowserStack,SaaS / Enterprise Tech,2011,"Mumbai, India",2,Late Stage (Series B / PE),Private
+ST087,Snapdeal,E-commerce,2010,"New Delhi, India",2,Late Stage (Pre-IPO Market),Private
+ST088,Chargebee,SaaS / Enterprise Tech,2011,"Chennai, India",4,Late Stage (Series H),Private
+ST089,Hasura,SaaS / Developer Tools,2017,"Bengaluru, India",2,Late Stage (Series C),Private
+ST090,InMobi,AdTech,2007,"Bengaluru, India",4,Late Stage (Pre-IPO / Private Equity),Private
+ST091,Dream11,GamingTech,2008,"Mumbai, India",2,Late Stage (Series G / Private Equity),Private
+ST092,MakeMyTrip,TravelTech,2000,"Gurugram, India",1,Public (NASDAQ),Public
+ST093,Goibibo,TravelTech,2007,"Gurugram, India",1,Late Stage (Acquired by MakeMyTrip),Acquired
+ST094,Yatra,TravelTech,2006,"Gurugram, India",3,Public (NSE/BSE / NASDAQ),Public
+ST095,TBO.com,TravelTech,2006,"Gurugram, India",2,Public (NSE/BSE),Public
+ST096,ixigo,TravelTech,2007,"Gurugram, India",2,Public (NSE/BSE),Public
+ST097,EaseMyTrip,TravelTech,2008,"New Delhi, India",3,Public (NSE/BSE),Public
+ST098,OYO,Hospitality / PropTech,2013,"Gurugram, India",1,Late Stage (Pre-IPO Series G),Private
+ST099,Ola Cabs,Mobility / Transportation,2010,"Bengaluru, India",2,Public (NSE/BSE),Public
+ST100,Apna,HRTech / Jobs Platform,2019,"Bengaluru, India",1,Late Stage (Series C),Private
